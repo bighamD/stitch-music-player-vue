@@ -17,6 +17,6 @@
 
 ## 4. Publishing
 
-- [ ] 4.1 Initialize Git, create the GitHub repository, and push the project.
-- [ ] 4.2 Deploy GitHub Pages through Actions.
-- [ ] 4.3 Deploy a Vercel preview and capture the public URL.
+- [x] 4.1 Initialize Git, create the GitHub repository, and push the project.
+- [x] 4.2 Deploy GitHub Pages through Actions.
+- [x] 4.3 Deploy a Vercel preview and capture the public URL.
